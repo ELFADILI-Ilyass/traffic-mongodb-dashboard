@@ -1,0 +1,2927 @@
+[
+  {
+    "sensor_id":400649,
+    "latitude":37.251741,
+    "longitude":-121.958118,
+    "lanes":2,
+    "name":"LARK AVE",
+    "freeway":17,
+    "city_code":44112.0
+  },
+  {
+    "sensor_id":400715,
+    "latitude":37.256205,
+    "longitude":-121.955355,
+    "lanes":2,
+    "name":"SB 85 rm-n-conn",
+    "freeway":17,
+    "city_code":44112.0
+  },
+  {
+    "sensor_id":400240,
+    "latitude":37.258184,
+    "longitude":-121.953853,
+    "lanes":3,
+    "name":"NB 85 rm-n-conn",
+    "freeway":17,
+    "city_code":44112.0
+  },
+  {
+    "sensor_id":403329,
+    "latitude":37.270267,
+    "longitude":-121.947353,
+    "lanes":3,
+    "name":"Camden ave rm-n-loop",
+    "freeway":17,
+    "city_code":10340.0
+  },
+  {
+    "sensor_id":400436,
+    "latitude":37.271687,
+    "longitude":-121.947037,
+    "lanes":3,
+    "name":"Camden Ave rm-n-diag",
+    "freeway":17,
+    "city_code":10340.0
+  },
+  {
+    "sensor_id":400221,
+    "latitude":37.293614,
+    "longitude":-121.937899,
+    "lanes":3,
+    "name":"Hamilton Ave  rm-n-loop",
+    "freeway":17,
+    "city_code":10340.0
+  },
+  {
+    "sensor_id":404370,
+    "latitude":37.296028,
+    "longitude":-121.939132,
+    "lanes":4,
+    "name":"Hamilton Ave rm-n-diag",
+    "freeway":17,
+    "city_code":10340.0
+  },
+  {
+    "sensor_id":400268,
+    "latitude":37.255651,
+    "longitude":-121.858078,
+    "lanes":3,
+    "name":"SANTA TERESA",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401555,
+    "latitude":37.255657,
+    "longitude":-121.858984,
+    "lanes":3,
+    "name":"Santa Teresa rm-n-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400052,
+    "latitude":37.255791,
+    "longitude":-121.875479,
+    "lanes":3,
+    "name":"Almaden Expwy",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400461,
+    "latitude":37.254781,
+    "longitude":-121.878917,
+    "lanes":3,
+    "name":"ALMADEN EXPWY  RM-N-DIA",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400750,
+    "latitude":37.250746,
+    "longitude":-121.907763,
+    "lanes":3,
+    "name":"oppo Camden Ave rm-s-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400148,
+    "latitude":37.250664,
+    "longitude":-121.912479,
+    "lanes":3,
+    "name":"Camden Ave rm-n-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400336,
+    "latitude":37.250624,
+    "longitude":-121.928209,
+    "lanes":4,
+    "name":"Union Ave rm-s-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400713,
+    "latitude":37.251585,
+    "longitude":-121.934046,
+    "lanes":3,
+    "name":"Union Ave  rm-n-diag",
+    "freeway":85,
+    "city_code":null
+  },
+  {
+    "sensor_id":400485,
+    "latitude":37.254231,
+    "longitude":-121.949216,
+    "lanes":3,
+    "name":"SB 17\/NB 17 rm-s-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400822,
+    "latitude":37.255715,
+    "longitude":-121.955375,
+    "lanes":3,
+    "name":"Bascom Ave rm-n-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400464,
+    "latitude":37.258029,
+    "longitude":-121.962211,
+    "lanes":3,
+    "name":"SB 17& NB 17 rm-n-diag",
+    "freeway":85,
+    "city_code":44112.0
+  },
+  {
+    "sensor_id":400688,
+    "latitude":37.259412,
+    "longitude":-121.966974,
+    "lanes":4,
+    "name":"Winchester Blvd  rm-n-diag",
+    "freeway":85,
+    "city_code":44112.0
+  },
+  {
+    "sensor_id":404434,
+    "latitude":37.265521,
+    "longitude":-121.98154,
+    "lanes":3,
+    "name":"N of Winchester Blvd.",
+    "freeway":85,
+    "city_code":10340.0
+  },
+  {
+    "sensor_id":400222,
+    "latitude":37.275395,
+    "longitude":-122.004702,
+    "lanes":3,
+    "name":"oppo Saratoga Ave rm-s-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400952,
+    "latitude":37.279234,
+    "longitude":-122.01035,
+    "lanes":3,
+    "name":"Saratoga Ave  rm-n-diag",
+    "freeway":85,
+    "city_code":70280.0
+  },
+  {
+    "sensor_id":401210,
+    "latitude":37.291198,
+    "longitude":-122.023391,
+    "lanes":3,
+    "name":"200' N of Blue Hills POC",
+    "freeway":85,
+    "city_code":70280.0
+  },
+  {
+    "sensor_id":400507,
+    "latitude":37.298931,
+    "longitude":-122.029806,
+    "lanes":3,
+    "name":"oppo De Anza Blvd rm-s-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400185,
+    "latitude":37.303131,
+    "longitude":-122.034527,
+    "lanes":3,
+    "name":"De Anza Blvd\/Saratoga-Sunny",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400677,
+    "latitude":37.32001,
+    "longitude":-122.048757,
+    "lanes":4,
+    "name":"Stevens Creek Blvd  rm-s-diag",
+    "freeway":85,
+    "city_code":17610.0
+  },
+  {
+    "sensor_id":404435,
+    "latitude":37.326592,
+    "longitude":-122.050852,
+    "lanes":3,
+    "name":"0.42 Mile S of I-280",
+    "freeway":85,
+    "city_code":17610.0
+  },
+  {
+    "sensor_id":407344,
+    "latitude":37.331501,
+    "longitude":-122.054687,
+    "lanes":3,
+    "name":"SB I-280 rm-n-loop",
+    "freeway":85,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":407321,
+    "latitude":37.333648,
+    "longitude":-122.056851,
+    "lanes":3,
+    "name":"NB Rte 280 \/ Stevens Creek",
+    "freeway":85,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":407331,
+    "latitude":37.335431,
+    "longitude":-122.058337,
+    "lanes":4,
+    "name":"Homestead Dr rm-n-loop",
+    "freeway":85,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":407341,
+    "latitude":37.344713,
+    "longitude":-122.059766,
+    "lanes":3,
+    "name":"The Dalles POC",
+    "freeway":85,
+    "city_code":17610.0
+  },
+  {
+    "sensor_id":407339,
+    "latitude":37.351571,
+    "longitude":-122.060285,
+    "lanes":3,
+    "name":"W Fremont Ave rm-s-diag",
+    "freeway":85,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":407337,
+    "latitude":37.353092,
+    "longitude":-122.0609,
+    "lanes":3,
+    "name":"W Fremont Ave rm-n-diag",
+    "freeway":85,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":402060,
+    "latitude":37.356655,
+    "longitude":-122.062397,
+    "lanes":3,
+    "name":"N OF FREMONT AVE",
+    "freeway":85,
+    "city_code":null
+  },
+  {
+    "sensor_id":407336,
+    "latitude":37.363146,
+    "longitude":-122.062707,
+    "lanes":3,
+    "name":"N of Fremont Ave",
+    "freeway":85,
+    "city_code":null
+  },
+  {
+    "sensor_id":407335,
+    "latitude":37.373213,
+    "longitude":-122.067368,
+    "lanes":3,
+    "name":"(future) POC",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":407328,
+    "latitude":37.377217,
+    "longitude":-122.067542,
+    "lanes":3,
+    "name":"ECR rm-n-loop",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":407342,
+    "latitude":37.379094,
+    "longitude":-122.067604,
+    "lanes":3,
+    "name":"ECR rm-n-diag",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":407325,
+    "latitude":37.383707,
+    "longitude":-122.068108,
+    "lanes":3,
+    "name":"EB 237 rm-n-loop",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":407323,
+    "latitude":37.396419,
+    "longitude":-122.068661,
+    "lanes":3,
+    "name":"Central Expwy rm-n-diag",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":400174,
+    "latitude":37.403686,
+    "longitude":-122.06976,
+    "lanes":3,
+    "name":"oppo Moffett Blvd rm-s-loop",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":407332,
+    "latitude":37.407311,
+    "longitude":-122.069566,
+    "lanes":1,
+    "name":"NB 101 HOV",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":400280,
+    "latitude":37.26198,
+    "longitude":-121.858479,
+    "lanes":2,
+    "name":"Santa Teresa Blvd \/ NB 85",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":405613,
+    "latitude":37.262704,
+    "longitude":-121.858533,
+    "lanes":2,
+    "name":"SB 85 rm-n-conn",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401129,
+    "latitude":37.266722,
+    "longitude":-121.859225,
+    "lanes":2,
+    "name":"200' S of Branham Lane",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401957,
+    "latitude":37.270311,
+    "longitude":-121.861079,
+    "lanes":3,
+    "name":"2200' S of Capital Expwy",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":404451,
+    "latitude":37.27263,
+    "longitude":-121.862544,
+    "lanes":3,
+    "name":"oppo Capitol expwy rm-s-diag",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400178,
+    "latitude":37.276874,
+    "longitude":-121.863698,
+    "lanes":2,
+    "name":"Capitol Expwy  rm-n-diag",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401567,
+    "latitude":37.279628,
+    "longitude":-121.864838,
+    "lanes":2,
+    "name":"Hillsdale Ave",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":404452,
+    "latitude":37.284773,
+    "longitude":-121.867709,
+    "lanes":2,
+    "name":"1600' N of Hillsdale Ave",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401597,
+    "latitude":37.2874,
+    "longitude":-121.869623,
+    "lanes":3,
+    "name":"900' of Carol Dr",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400418,
+    "latitude":37.291828,
+    "longitude":-121.871836,
+    "lanes":3,
+    "name":"Curtner Ave rm-n-diag",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400654,
+    "latitude":37.297486,
+    "longitude":-121.874117,
+    "lanes":3,
+    "name":"Curtner Ave  rm-n-diag",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400664,
+    "latitude":37.303458,
+    "longitude":-121.878143,
+    "lanes":3,
+    "name":"Almaden Expwy  rm-n-diag",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":404453,
+    "latitude":37.309111,
+    "longitude":-121.882596,
+    "lanes":2,
+    "name":"600' S of Alma Ave",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400258,
+    "latitude":37.313462,
+    "longitude":-121.886197,
+    "lanes":3,
+    "name":"Lelong St rm-n-diag",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400916,
+    "latitude":37.320404,
+    "longitude":-121.89031,
+    "lanes":3,
+    "name":"NB & SB 280  rm-s-conn",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400563,
+    "latitude":37.325124,
+    "longitude":-121.893062,
+    "lanes":3,
+    "name":"Auzerais Ave\/Delmas St",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402056,
+    "latitude":37.328954,
+    "longitude":-121.895643,
+    "lanes":3,
+    "name":"PARK AVE",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402059,
+    "latitude":37.337479,
+    "longitude":-121.897848,
+    "lanes":4,
+    "name":"JULIAN ST RM-IN-DIAG",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402118,
+    "latitude":37.344411,
+    "longitude":-121.902181,
+    "lanes":3,
+    "name":"Taylor Street",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":409524,
+    "latitude":37.348448,
+    "longitude":-121.907247,
+    "lanes":3,
+    "name":"Taylor Street rm-n-diag",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":409525,
+    "latitude":37.362566,
+    "longitude":-121.917493,
+    "lanes":3,
+    "name":"oppo Skyport Dr. Rm-s-diag",
+    "freeway":87,
+    "city_code":null
+  },
+  {
+    "sensor_id":409526,
+    "latitude":37.366737,
+    "longitude":-121.921627,
+    "lanes":3,
+    "name":"Skyport Dr rm-n-diag",
+    "freeway":87,
+    "city_code":null
+  },
+  {
+    "sensor_id":401817,
+    "latitude":37.371274,
+    "longitude":-121.926917,
+    "lanes":4,
+    "name":"Guapalupe Parkway",
+    "freeway":87,
+    "city_code":null
+  },
+  {
+    "sensor_id":402359,
+    "latitude":37.329728,
+    "longitude":-121.842102,
+    "lanes":4,
+    "name":"4A5324 loc 62",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401908,
+    "latitude":37.335284,
+    "longitude":-121.847662,
+    "lanes":4,
+    "name":"Story Rd. rm-n-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400804,
+    "latitude":37.336089,
+    "longitude":-121.848437,
+    "lanes":4,
+    "name":"Story Rd\/SB 280 rm-n-coll",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402361,
+    "latitude":37.336549,
+    "longitude":-121.848881,
+    "lanes":4,
+    "name":"4A5324 LOC 64",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400400,
+    "latitude":37.34241,
+    "longitude":-121.854543,
+    "lanes":4,
+    "name":"SB 680  rm-n-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401890,
+    "latitude":37.343447,
+    "longitude":-121.855539,
+    "lanes":5,
+    "name":"200' S OF SAN ANTONIO",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400996,
+    "latitude":37.350928,
+    "longitude":-121.862378,
+    "lanes":4,
+    "name":"Alum Rock Ave  rm-n-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400668,
+    "latitude":37.35512,
+    "longitude":-121.866967,
+    "lanes":4,
+    "name":"Mckee Rd\/Julian St  rm-n-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402362,
+    "latitude":37.358996,
+    "longitude":-121.871981,
+    "lanes":4,
+    "name":"4A5324 loc 65",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400965,
+    "latitude":37.363311,
+    "longitude":-121.893592,
+    "lanes":4,
+    "name":"Oakland Rd rm-n-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400001,
+    "latitude":37.364085,
+    "longitude":-121.901149,
+    "lanes":5,
+    "name":"NB 880 rm-n-loop",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":404753,
+    "latitude":37.364689,
+    "longitude":-121.902989,
+    "lanes":5,
+    "name":"oppo NB 101 rm-s-loop",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402364,
+    "latitude":37.368104,
+    "longitude":-121.90788,
+    "lanes":4,
+    "name":"4A5324 loc 66",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400863,
+    "latitude":37.371809,
+    "longitude":-121.91655,
+    "lanes":4,
+    "name":"N 1st St rm-n-loop",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400911,
+    "latitude":37.372674,
+    "longitude":-121.922087,
+    "lanes":4,
+    "name":"Brokaw Rd rm-n-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400760,
+    "latitude":37.374628,
+    "longitude":-121.931055,
+    "lanes":4,
+    "name":"NB 87 rm-n-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400964,
+    "latitude":37.376685,
+    "longitude":-121.94075,
+    "lanes":3,
+    "name":"De La Cruz Blvd rm-n-loop",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400227,
+    "latitude":37.377237,
+    "longitude":-121.943586,
+    "lanes":5,
+    "name":"Trimble Rd rm-n-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":404521,
+    "latitude":37.382586,
+    "longitude":-121.965617,
+    "lanes":4,
+    "name":"San Tomas Expwy  rm-n-loop",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400353,
+    "latitude":37.383125,
+    "longitude":-121.967496,
+    "lanes":4,
+    "name":"San Tomas Expwy rm-n-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401994,
+    "latitude":37.385523,
+    "longitude":-121.975872,
+    "lanes":4,
+    "name":"GREAT AMERICA PKWY",
+    "freeway":101,
+    "city_code":69084.0
+  },
+  {
+    "sensor_id":400246,
+    "latitude":37.386551,
+    "longitude":-121.979462,
+    "lanes":4,
+    "name":"Great America Pkwy rm-n-diag",
+    "freeway":101,
+    "city_code":69084.0
+  },
+  {
+    "sensor_id":402366,
+    "latitude":37.388542,
+    "longitude":-121.986478,
+    "lanes":4,
+    "name":"4A5324 loc 68",
+    "freeway":101,
+    "city_code":69084.0
+  },
+  {
+    "sensor_id":400168,
+    "latitude":37.391166,
+    "longitude":-121.995524,
+    "lanes":4,
+    "name":"Lawrence Expwy. rm-n-loop",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":400790,
+    "latitude":37.391922,
+    "longitude":-121.998077,
+    "lanes":5,
+    "name":"Lawrence Expwy rm-n-diag",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":402368,
+    "latitude":37.393954,
+    "longitude":-122.005269,
+    "lanes":4,
+    "name":"4A5324 loc 69",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":402370,
+    "latitude":37.39592,
+    "longitude":-122.013438,
+    "lanes":4,
+    "name":"4A5324 LOC 70",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":401996,
+    "latitude":37.396411,
+    "longitude":-122.015716,
+    "lanes":4,
+    "name":"FAIR OAKS",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":401997,
+    "latitude":37.398597,
+    "longitude":-122.025693,
+    "lanes":4,
+    "name":"MATHILDA AVE",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":404522,
+    "latitude":37.402071,
+    "longitude":-122.041627,
+    "lanes":4,
+    "name":"NB 101 to WB 237 I\/C",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":401998,
+    "latitude":37.404178,
+    "longitude":-122.05107,
+    "lanes":4,
+    "name":"ELLIS STREET",
+    "freeway":101,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":402372,
+    "latitude":37.40547,
+    "longitude":-122.055924,
+    "lanes":4,
+    "name":"4A5324 loc 72",
+    "freeway":101,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":401534,
+    "latitude":37.407511,
+    "longitude":-122.065278,
+    "lanes":4,
+    "name":"MOFFETT BLVD",
+    "freeway":101,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":401948,
+    "latitude":37.409514,
+    "longitude":-122.071728,
+    "lanes":5,
+    "name":"MOFFETT BLVD",
+    "freeway":101,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":401507,
+    "latitude":37.412677,
+    "longitude":-122.079539,
+    "lanes":6,
+    "name":"SHORELINE BLVD",
+    "freeway":101,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":401403,
+    "latitude":37.338232,
+    "longitude":-121.854583,
+    "lanes":2,
+    "name":"US 101 IC (McLaughlin Ave)",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401655,
+    "latitude":37.335596,
+    "longitude":-121.858919,
+    "lanes":5,
+    "name":"McLaughlin Ave rm-n-loop\/diag",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401808,
+    "latitude":37.334883,
+    "longitude":-121.860066,
+    "lanes":6,
+    "name":"N. of McLaughlin Ave.",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":403402,
+    "latitude":37.32872,
+    "longitude":-121.870796,
+    "lanes":5,
+    "name":"oppo S 11th St rm-s-diag",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400799,
+    "latitude":37.327927,
+    "longitude":-121.876137,
+    "lanes":4,
+    "name":"10TH ST",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400953,
+    "latitude":37.327241,
+    "longitude":-121.88076,
+    "lanes":4,
+    "name":"4TH ST\/REED ST",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401810,
+    "latitude":37.32592,
+    "longitude":-121.883989,
+    "lanes":5,
+    "name":"N of 1st St",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":413878,
+    "latitude":37.324641,
+    "longitude":-121.888603,
+    "lanes":4,
+    "name":"Almaden Blvd rm-n-diag",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":414284,
+    "latitude":37.323066,
+    "longitude":-121.896538,
+    "lanes":5,
+    "name":"NB 87\/SB 87 rm-n-fly\/diag",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401942,
+    "latitude":37.322594,
+    "longitude":-121.897858,
+    "lanes":6,
+    "name":"BIRD AVE",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":413877,
+    "latitude":37.321613,
+    "longitude":-121.899642,
+    "lanes":5,
+    "name":"Bird Ave rm-n-diag",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":414694,
+    "latitude":37.315051,
+    "longitude":-121.913497,
+    "lanes":4,
+    "name":"Meridian Ave rm-n-loop",
+    "freeway":280,
+    "city_code":null
+  },
+  {
+    "sensor_id":401167,
+    "latitude":37.316984,
+    "longitude":-121.923208,
+    "lanes":5,
+    "name":"Leigh Ave OC",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":405701,
+    "latitude":37.316969,
+    "longitude":-121.924481,
+    "lanes":5,
+    "name":"Menker Ave rm-n-slip",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407710,
+    "latitude":37.317459,
+    "longitude":-121.938793,
+    "lanes":3,
+    "name":"17\/880 IC",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401400,
+    "latitude":37.316841,
+    "longitude":-121.952427,
+    "lanes":6,
+    "name":"Bascom & Leland",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400714,
+    "latitude":37.316788,
+    "longitude":-121.953512,
+    "lanes":4,
+    "name":"Winchester Blvd rm-n-diag",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400414,
+    "latitude":37.317942,
+    "longitude":-121.977301,
+    "lanes":4,
+    "name":"Saratoga Ave rm-n-diag",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400560,
+    "latitude":37.324839,
+    "longitude":-122.002891,
+    "lanes":4,
+    "name":"Stevens Creek Blvd  rm-n-diag",
+    "freeway":280,
+    "city_code":69084.0
+  },
+  {
+    "sensor_id":400499,
+    "latitude":37.331068,
+    "longitude":-122.014931,
+    "lanes":4,
+    "name":"WOLFE RD",
+    "freeway":280,
+    "city_code":17610.0
+  },
+  {
+    "sensor_id":400823,
+    "latitude":37.334457,
+    "longitude":-122.035326,
+    "lanes":4,
+    "name":"De Anza Blvd\/Sunnyvale",
+    "freeway":280,
+    "city_code":17610.0
+  },
+  {
+    "sensor_id":401845,
+    "latitude":37.332668,
+    "longitude":-122.060628,
+    "lanes":4,
+    "name":"SB 280 \/ NB 85 & NB 280 \/ SB85",
+    "freeway":280,
+    "city_code":17610.0
+  },
+  {
+    "sensor_id":407172,
+    "latitude":37.341738,
+    "longitude":-121.848369,
+    "lanes":4,
+    "name":"S. King Rd off-n-diag",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407173,
+    "latitude":37.342007,
+    "longitude":-121.847982,
+    "lanes":3,
+    "name":"S. King Rd off-n-diag",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407165,
+    "latitude":37.344023,
+    "longitude":-121.845368,
+    "lanes":6,
+    "name":"S. King Rd rm-n-diag",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407176,
+    "latitude":37.358523,
+    "longitude":-121.840267,
+    "lanes":4,
+    "name":"Alum Rock Rd rm-n-loop",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407177,
+    "latitude":37.360223,
+    "longitude":-121.841285,
+    "lanes":4,
+    "name":"Alum Rock Rd rm-n-diag",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407179,
+    "latitude":37.368611,
+    "longitude":-121.846609,
+    "lanes":4,
+    "name":"McKee Rd rm-n-diag",
+    "freeway":680,
+    "city_code":null
+  },
+  {
+    "sensor_id":407180,
+    "latitude":37.372785,
+    "longitude":-121.850839,
+    "lanes":4,
+    "name":"N of McKee Rd",
+    "freeway":680,
+    "city_code":null
+  },
+  {
+    "sensor_id":407181,
+    "latitude":37.379684,
+    "longitude":-121.857783,
+    "lanes":4,
+    "name":"S of Berryessa Rd",
+    "freeway":680,
+    "city_code":null
+  },
+  {
+    "sensor_id":407157,
+    "latitude":37.385475,
+    "longitude":-121.863839,
+    "lanes":4,
+    "name":"Berryessa Rd rm-n-diag",
+    "freeway":680,
+    "city_code":null
+  },
+  {
+    "sensor_id":407155,
+    "latitude":37.391513,
+    "longitude":-121.870376,
+    "lanes":4,
+    "name":"Hotstteter Rd rn-s-loo\/diag",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407153,
+    "latitude":37.398059,
+    "longitude":-121.875211,
+    "lanes":4,
+    "name":"N Capitol Ave rm-s-diag",
+    "freeway":680,
+    "city_code":null
+  },
+  {
+    "sensor_id":407174,
+    "latitude":37.40088,
+    "longitude":-121.876103,
+    "lanes":4,
+    "name":"N Capitol Ave rm-n-diag",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407161,
+    "latitude":37.40777,
+    "longitude":-121.878234,
+    "lanes":4,
+    "name":"N of N Capitol Ave",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407152,
+    "latitude":37.416073,
+    "longitude":-121.880751,
+    "lanes":4,
+    "name":"Landess Ave rm-n-diag",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407151,
+    "latitude":37.420741,
+    "longitude":-121.882093,
+    "lanes":4,
+    "name":"N of Landess Ave",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407150,
+    "latitude":37.427274,
+    "longitude":-121.884436,
+    "lanes":4,
+    "name":"S of Wrigley Way",
+    "freeway":680,
+    "city_code":47766.0
+  },
+  {
+    "sensor_id":408907,
+    "latitude":37.321822,
+    "longitude":-121.940425,
+    "lanes":3,
+    "name":"SB\/NB 280 rm-n-fly\/diag",
+    "freeway":880,
+    "city_code":null
+  },
+  {
+    "sensor_id":400951,
+    "latitude":37.325151,
+    "longitude":-121.940679,
+    "lanes":4,
+    "name":"Stevens Creek Blvd",
+    "freeway":880,
+    "city_code":null
+  },
+  {
+    "sensor_id":400057,
+    "latitude":37.335022,
+    "longitude":-121.935522,
+    "lanes":3,
+    "name":"Bascom Ave rm-n-diag",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400147,
+    "latitude":37.34221,
+    "longitude":-121.926305,
+    "lanes":3,
+    "name":"The Alameda rm-n-loop",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400343,
+    "latitude":37.348907,
+    "longitude":-121.917833,
+    "lanes":3,
+    "name":"Coleman Ave rm-n-diag",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401560,
+    "latitude":37.357526,
+    "longitude":-121.907884,
+    "lanes":3,
+    "name":"FIRST STREET",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400045,
+    "latitude":37.363402,
+    "longitude":-121.902233,
+    "lanes":4,
+    "name":"SB 101 rm-n-loop",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400122,
+    "latitude":37.36614,
+    "longitude":-121.901132,
+    "lanes":3,
+    "name":"NB 101 rm-n-diag",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401541,
+    "latitude":37.370203,
+    "longitude":-121.901514,
+    "lanes":3,
+    "name":"GISH RD",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402281,
+    "latitude":37.38449,
+    "longitude":-121.904845,
+    "lanes":4,
+    "name":"4A5324 loc 91",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402283,
+    "latitude":37.391595,
+    "longitude":-121.906506,
+    "lanes":4,
+    "name":"4A5324 loc 92",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402285,
+    "latitude":37.398698,
+    "longitude":-121.908172,
+    "lanes":4,
+    "name":"4A5324 loc 93",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402286,
+    "latitude":37.405824,
+    "longitude":-121.909842,
+    "lanes":5,
+    "name":"4A5324 loc 94",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400088,
+    "latitude":37.414988,
+    "longitude":-121.912685,
+    "lanes":4,
+    "name":"Great Mall Pkwy rm-n-loop",
+    "freeway":880,
+    "city_code":47766.0
+  },
+  {
+    "sensor_id":402288,
+    "latitude":37.419153,
+    "longitude":-121.914103,
+    "lanes":4,
+    "name":"4A5324 loc 95",
+    "freeway":880,
+    "city_code":47766.0
+  },
+  {
+    "sensor_id":413026,
+    "latitude":37.421232,
+    "longitude":-121.914808,
+    "lanes":5,
+    "name":"Calaveras Blvd\/EB 237",
+    "freeway":880,
+    "city_code":47766.0
+  },
+  {
+    "sensor_id":401464,
+    "latitude":37.424833,
+    "longitude":-121.916049,
+    "lanes":4,
+    "name":"EB 237 rm-n-loop",
+    "freeway":880,
+    "city_code":47766.0
+  },
+  {
+    "sensor_id":401489,
+    "latitude":37.427486,
+    "longitude":-121.916962,
+    "lanes":4,
+    "name":"Calaveras Blvd rm-n-diag",
+    "freeway":880,
+    "city_code":47766.0
+  },
+  {
+    "sensor_id":413845,
+    "latitude":37.422887,
+    "longitude":-121.925747,
+    "lanes":4,
+    "name":"McCarthy Blvd rm-w-diag",
+    "freeway":237,
+    "city_code":69084.0
+  },
+  {
+    "sensor_id":400158,
+    "latitude":37.421059,
+    "longitude":-121.93678,
+    "lanes":3,
+    "name":"Zanker Rd RM-E-Diag",
+    "freeway":237,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401014,
+    "latitude":37.420505,
+    "longitude":-121.9392,
+    "lanes":3,
+    "name":"ZANKER RD",
+    "freeway":237,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400449,
+    "latitude":37.419452,
+    "longitude":-121.955498,
+    "lanes":3,
+    "name":"N First St",
+    "freeway":237,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400201,
+    "latitude":37.419186,
+    "longitude":-121.962831,
+    "lanes":3,
+    "name":"N FIRST STREET",
+    "freeway":237,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400096,
+    "latitude":37.418049,
+    "longitude":-121.972381,
+    "lanes":3,
+    "name":"Great American Pkwy",
+    "freeway":237,
+    "city_code":69084.0
+  },
+  {
+    "sensor_id":400274,
+    "latitude":37.409909,
+    "longitude":-121.995942,
+    "lanes":3,
+    "name":"Lawrence Expwy",
+    "freeway":237,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":400687,
+    "latitude":37.408459,
+    "longitude":-122.002706,
+    "lanes":3,
+    "name":"LAWRENCE EXPWY",
+    "freeway":237,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":404586,
+    "latitude":37.406939,
+    "longitude":-122.009566,
+    "lanes":3,
+    "name":"Fair Oaks Ave. off ramp",
+    "freeway":237,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":400581,
+    "latitude":37.403169,
+    "longitude":-122.026944,
+    "lanes":3,
+    "name":"Mathilda Ave rm-w-diag",
+    "freeway":237,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":401351,
+    "latitude":37.401701,
+    "longitude":-122.032879,
+    "lanes":2,
+    "name":"WB 237  TO NB101",
+    "freeway":237,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":400100,
+    "latitude":37.295052,
+    "longitude":-121.938872,
+    "lanes":3,
+    "name":"Hamilton Ave rm-n-loop",
+    "freeway":17,
+    "city_code":10340.0
+  },
+  {
+    "sensor_id":400298,
+    "latitude":37.293047,
+    "longitude":-121.937861,
+    "lanes":3,
+    "name":"HAMILTON AVE",
+    "freeway":17,
+    "city_code":10340.0
+  },
+  {
+    "sensor_id":400278,
+    "latitude":37.266561,
+    "longitude":-121.948692,
+    "lanes":3,
+    "name":"San Tomas Expwy rm-s-diag",
+    "freeway":17,
+    "city_code":44112.0
+  },
+  {
+    "sensor_id":400073,
+    "latitude":37.2563,
+    "longitude":-121.955559,
+    "lanes":2,
+    "name":"NB 85 rm-s-loop\/conn",
+    "freeway":17,
+    "city_code":44112.0
+  },
+  {
+    "sensor_id":400832,
+    "latitude":37.254601,
+    "longitude":-121.956775,
+    "lanes":3,
+    "name":"SB 85",
+    "freeway":17,
+    "city_code":44112.0
+  },
+  {
+    "sensor_id":407359,
+    "latitude":37.407147,
+    "longitude":-122.070055,
+    "lanes":1,
+    "name":"SB 101 HOV",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":400869,
+    "latitude":37.403673,
+    "longitude":-122.069953,
+    "lanes":3,
+    "name":"Moffett Blvd rm-s-loop",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":407374,
+    "latitude":37.395123,
+    "longitude":-122.068612,
+    "lanes":3,
+    "name":"oppo Central Expwy on-n-diag",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":400528,
+    "latitude":37.388893,
+    "longitude":-122.068829,
+    "lanes":3,
+    "name":"EAST EVELYN AVE",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":407348,
+    "latitude":37.384273,
+    "longitude":-122.068412,
+    "lanes":3,
+    "name":"EB 237 rm-n-loop",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":407367,
+    "latitude":37.379368,
+    "longitude":-122.067871,
+    "lanes":3,
+    "name":"ECR rm-s-loop",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":407352,
+    "latitude":37.377057,
+    "longitude":-122.067805,
+    "lanes":3,
+    "name":"ECR rm-s-diag",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":407360,
+    "latitude":37.373187,
+    "longitude":-122.067646,
+    "lanes":3,
+    "name":"(future) POC",
+    "freeway":85,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":407361,
+    "latitude":37.363107,
+    "longitude":-122.063006,
+    "lanes":3,
+    "name":"N of Fremont Ave",
+    "freeway":85,
+    "city_code":null
+  },
+  {
+    "sensor_id":402061,
+    "latitude":37.356616,
+    "longitude":-122.06262,
+    "lanes":3,
+    "name":"N OF FREMONT AVE",
+    "freeway":85,
+    "city_code":null
+  },
+  {
+    "sensor_id":407364,
+    "latitude":37.351529,
+    "longitude":-122.060518,
+    "lanes":3,
+    "name":"W Fremont Ave rm-s-diag",
+    "freeway":85,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":407372,
+    "latitude":37.344708,
+    "longitude":-122.059991,
+    "lanes":3,
+    "name":"The Dalles POC",
+    "freeway":85,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":407373,
+    "latitude":37.337629,
+    "longitude":-122.059717,
+    "lanes":3,
+    "name":"Homestead Dr off-s-diag",
+    "freeway":85,
+    "city_code":17610.0
+  },
+  {
+    "sensor_id":407370,
+    "latitude":37.333574,
+    "longitude":-122.057007,
+    "lanes":3,
+    "name":"NB I-280 rm-s-loop",
+    "freeway":85,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":400209,
+    "latitude":37.319961,
+    "longitude":-122.049031,
+    "lanes":4,
+    "name":"Stevens Creek Blvd  rm-s-diag",
+    "freeway":85,
+    "city_code":17610.0
+  },
+  {
+    "sensor_id":400648,
+    "latitude":37.303016,
+    "longitude":-122.034801,
+    "lanes":3,
+    "name":"De Anza Blvd\/Saratoga-Sunny",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400828,
+    "latitude":37.298804,
+    "longitude":-122.030071,
+    "lanes":3,
+    "name":"De Anza Blvd rm-s-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401224,
+    "latitude":37.291054,
+    "longitude":-122.023638,
+    "lanes":3,
+    "name":"200' N of Blue Hills POC",
+    "freeway":85,
+    "city_code":70280.0
+  },
+  {
+    "sensor_id":400097,
+    "latitude":37.279012,
+    "longitude":-122.010614,
+    "lanes":3,
+    "name":"Saratoga Ave  rm-n-diag",
+    "freeway":85,
+    "city_code":70280.0
+  },
+  {
+    "sensor_id":400582,
+    "latitude":37.275212,
+    "longitude":-122.004898,
+    "lanes":3,
+    "name":"Saratoga Ave rm-s-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":404444,
+    "latitude":37.265311,
+    "longitude":-121.981694,
+    "lanes":3,
+    "name":"N of Winchester Blvd.",
+    "freeway":85,
+    "city_code":10340.0
+  },
+  {
+    "sensor_id":400213,
+    "latitude":37.259192,
+    "longitude":-121.967128,
+    "lanes":4,
+    "name":"Winchester Blvd  rm-n-diag",
+    "freeway":85,
+    "city_code":44112.0
+  },
+  {
+    "sensor_id":400907,
+    "latitude":37.257815,
+    "longitude":-121.96237,
+    "lanes":3,
+    "name":"SB 17& NB 17 rm-n-diag",
+    "freeway":85,
+    "city_code":44112.0
+  },
+  {
+    "sensor_id":400792,
+    "latitude":37.255491,
+    "longitude":-121.955543,
+    "lanes":3,
+    "name":"Bascom Ave rm-n-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400934,
+    "latitude":37.254002,
+    "longitude":-121.949365,
+    "lanes":3,
+    "name":"SB 17\/NB 17 rm-s-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400017,
+    "latitude":37.253303,
+    "longitude":-121.94544,
+    "lanes":4,
+    "name":"BASCOM AVE",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400700,
+    "latitude":37.251345,
+    "longitude":-121.934089,
+    "lanes":3,
+    "name":"Union Ave  rm-n-diag",
+    "freeway":85,
+    "city_code":null
+  },
+  {
+    "sensor_id":400772,
+    "latitude":37.250448,
+    "longitude":-121.928226,
+    "lanes":3,
+    "name":"Union Ave rm-s-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400717,
+    "latitude":37.250424,
+    "longitude":-121.912467,
+    "lanes":4,
+    "name":"Camden Ave rm-n-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400059,
+    "latitude":37.250481,
+    "longitude":-121.907735,
+    "lanes":3,
+    "name":"Camden Ave rm-s-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400690,
+    "latitude":37.255184,
+    "longitude":-121.876817,
+    "lanes":3,
+    "name":"ALMADEN EXPWY",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400085,
+    "latitude":37.255594,
+    "longitude":-121.87471,
+    "lanes":3,
+    "name":"ALMADEN EXPWY",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401495,
+    "latitude":37.255346,
+    "longitude":-121.85898,
+    "lanes":4,
+    "name":"Santa Teresa rm-n-diag",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400637,
+    "latitude":37.255322,
+    "longitude":-121.855765,
+    "lanes":3,
+    "name":"SANTA TERESA",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400519,
+    "latitude":37.255257,
+    "longitude":-121.85256,
+    "lanes":3,
+    "name":"SANTA TERESA",
+    "freeway":85,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401816,
+    "latitude":37.37116,
+    "longitude":-121.926885,
+    "lanes":2,
+    "name":"Guapalupe Parkway",
+    "freeway":87,
+    "city_code":null
+  },
+  {
+    "sensor_id":409529,
+    "latitude":37.366662,
+    "longitude":-121.921519,
+    "lanes":3,
+    "name":"Skyport Dr rm-n-diag",
+    "freeway":87,
+    "city_code":null
+  },
+  {
+    "sensor_id":409528,
+    "latitude":37.362467,
+    "longitude":-121.917418,
+    "lanes":3,
+    "name":"Skyport Dr. Rm-s-diag",
+    "freeway":87,
+    "city_code":null
+  },
+  {
+    "sensor_id":402117,
+    "latitude":37.344302,
+    "longitude":-121.902123,
+    "lanes":3,
+    "name":"Taylor St rm-s-diag",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402058,
+    "latitude":37.337137,
+    "longitude":-121.897741,
+    "lanes":3,
+    "name":"JULIAN ST",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402057,
+    "latitude":37.336401,
+    "longitude":-121.897563,
+    "lanes":4,
+    "name":"JULIAN ST",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400236,
+    "latitude":37.325009,
+    "longitude":-121.892984,
+    "lanes":3,
+    "name":"Auzerais Ave\/Delmas St",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400065,
+    "latitude":37.320292,
+    "longitude":-121.890281,
+    "lanes":2,
+    "name":"NB & SB 280  rm-s-conn",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400995,
+    "latitude":37.313375,
+    "longitude":-121.886106,
+    "lanes":5,
+    "name":"Lelong St rm-n-diag",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":404461,
+    "latitude":37.309012,
+    "longitude":-121.882518,
+    "lanes":2,
+    "name":"600' S of Alma Ave",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400837,
+    "latitude":37.303359,
+    "longitude":-121.878066,
+    "lanes":3,
+    "name":"Almaden Expwy  rm-n-diag",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400040,
+    "latitude":37.294949,
+    "longitude":-121.873109,
+    "lanes":3,
+    "name":"Curtner Ave rm-s-loop",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400257,
+    "latitude":37.291715,
+    "longitude":-121.871799,
+    "lanes":3,
+    "name":"Curtner Ave rm-n-diag",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401606,
+    "latitude":37.287298,
+    "longitude":-121.869548,
+    "lanes":3,
+    "name":"900' of Carol Dr",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":405619,
+    "latitude":37.284665,
+    "longitude":-121.867631,
+    "lanes":2,
+    "name":"1600' N of Hillsdale Ave",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401457,
+    "latitude":37.279515,
+    "longitude":-121.864784,
+    "lanes":2,
+    "name":"Hillsdale Ave",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400457,
+    "latitude":37.276763,
+    "longitude":-121.863661,
+    "lanes":2,
+    "name":"Capitol Expwy  rm-n-diag",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":404462,
+    "latitude":37.272658,
+    "longitude":-121.862556,
+    "lanes":3,
+    "name":"Capitol expwy rm-s-diag",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401958,
+    "latitude":37.270209,
+    "longitude":-121.860998,
+    "lanes":3,
+    "name":"2200' S of Capital Expwy",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401154,
+    "latitude":37.266658,
+    "longitude":-121.85921,
+    "lanes":2,
+    "name":"200' S of Branham Lane",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400842,
+    "latitude":37.261849,
+    "longitude":-121.859205,
+    "lanes":2,
+    "name":"Santa Teresa Blvd \/ NB 85",
+    "freeway":87,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401926,
+    "latitude":37.411999,
+    "longitude":-122.078452,
+    "lanes":4,
+    "name":"Shoreline Blvd. rm-s-loop",
+    "freeway":101,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":400149,
+    "latitude":37.4118,
+    "longitude":-122.077964,
+    "lanes":3,
+    "name":"Shoreline Blvd rm-s-diag",
+    "freeway":101,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":401937,
+    "latitude":37.411338,
+    "longitude":-122.076826,
+    "lanes":4,
+    "name":"Shoreline Blvd rm-s-diag",
+    "freeway":101,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":401936,
+    "latitude":37.407282,
+    "longitude":-122.06515,
+    "lanes":4,
+    "name":"Moffett Blvd rm-s-diag",
+    "freeway":101,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":402373,
+    "latitude":37.405335,
+    "longitude":-122.056343,
+    "lanes":4,
+    "name":"4A5324 loc 72",
+    "freeway":101,
+    "city_code":49670.0
+  },
+  {
+    "sensor_id":400435,
+    "latitude":37.403153,
+    "longitude":-122.047463,
+    "lanes":4,
+    "name":"Ellis St rm-s-diag",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":404554,
+    "latitude":37.401893,
+    "longitude":-122.041683,
+    "lanes":4,
+    "name":"NB 101 to WB 237 I\/C",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":400545,
+    "latitude":37.40013,
+    "longitude":-122.033628,
+    "lanes":4,
+    "name":"EB 237 rm-s-diag",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":400743,
+    "latitude":37.398989,
+    "longitude":-122.028373,
+    "lanes":4,
+    "name":"Mathilda Ave rm-s-loop",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":400330,
+    "latitude":37.398628,
+    "longitude":-122.026802,
+    "lanes":4,
+    "name":"Mathilda Ave. rm-s-diag",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":402371,
+    "latitude":37.396611,
+    "longitude":-122.017518,
+    "lanes":4,
+    "name":"4A5324 LOC 71",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":404553,
+    "latitude":37.395734,
+    "longitude":-122.013489,
+    "lanes":4,
+    "name":"Fair Oaks Ave rm-s-loop",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":400904,
+    "latitude":37.395067,
+    "longitude":-122.010518,
+    "lanes":4,
+    "name":"Fair Oaks Ave rm-s-diag",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":402369,
+    "latitude":37.393755,
+    "longitude":-122.005329,
+    "lanes":4,
+    "name":"4A5324 loc 69",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":400643,
+    "latitude":37.390763,
+    "longitude":-121.994912,
+    "lanes":4,
+    "name":"Lawrence Expwy. rm-s-loop",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":400794,
+    "latitude":37.390422,
+    "longitude":-121.993716,
+    "lanes":5,
+    "name":"Lawrence Expwy rm-s-diag",
+    "freeway":101,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":402367,
+    "latitude":37.388372,
+    "longitude":-121.986538,
+    "lanes":4,
+    "name":"4A5324 loc 68",
+    "freeway":101,
+    "city_code":69084.0
+  },
+  {
+    "sensor_id":400069,
+    "latitude":37.385758,
+    "longitude":-121.977493,
+    "lanes":4,
+    "name":"Great America Pkwy rm-s-diag",
+    "freeway":101,
+    "city_code":69084.0
+  },
+  {
+    "sensor_id":400372,
+    "latitude":37.38482,
+    "longitude":-121.974251,
+    "lanes":4,
+    "name":"Great America Pkwy rm-s-loop",
+    "freeway":101,
+    "city_code":69084.0
+  },
+  {
+    "sensor_id":400206,
+    "latitude":37.381356,
+    "longitude":-121.96211,
+    "lanes":4,
+    "name":"San Tomas Expwy rm-s-loop",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400895,
+    "latitude":37.380958,
+    "longitude":-121.960741,
+    "lanes":5,
+    "name":"San Tomas Expwy rm-s-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400586,
+    "latitude":37.376835,
+    "longitude":-121.942537,
+    "lanes":4,
+    "name":"Trimble Rd. rm-s-loop",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400172,
+    "latitude":37.376264,
+    "longitude":-121.939712,
+    "lanes":4,
+    "name":"De La Cruz Blvd rm-s-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402365,
+    "latitude":37.367859,
+    "longitude":-121.907971,
+    "lanes":5,
+    "name":"4A5324 loc 66",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400394,
+    "latitude":37.364382,
+    "longitude":-121.902692,
+    "lanes":5,
+    "name":"SB 880 rm-s-loop",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400922,
+    "latitude":37.363644,
+    "longitude":-121.899535,
+    "lanes":5,
+    "name":"NB 880 rm-s-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400109,
+    "latitude":37.362706,
+    "longitude":-121.889426,
+    "lanes":4,
+    "name":"N 13th St\/Oakland Rd rm-s-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402363,
+    "latitude":37.3588,
+    "longitude":-121.872094,
+    "lanes":4,
+    "name":"4A5324 loc 65",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400440,
+    "latitude":37.353727,
+    "longitude":-121.865827,
+    "lanes":4,
+    "name":"Mckee Rd\/Julian St rm-s-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400160,
+    "latitude":37.348392,
+    "longitude":-121.860589,
+    "lanes":4,
+    "name":"Alum Rock Ave rm-s-diag",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401891,
+    "latitude":37.343293,
+    "longitude":-121.855795,
+    "lanes":5,
+    "name":"200' S of San Antonio",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401906,
+    "latitude":37.335259,
+    "longitude":-121.848031,
+    "lanes":4,
+    "name":"S OF STORY RD OFF RAMP",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402360,
+    "latitude":37.329591,
+    "longitude":-121.842361,
+    "lanes":5,
+    "name":"4A5324 loc 62",
+    "freeway":101,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401846,
+    "latitude":37.332482,
+    "longitude":-122.060617,
+    "lanes":4,
+    "name":"SB 280\/NB 85 & NB 280\/SB85",
+    "freeway":280,
+    "city_code":17610.0
+  },
+  {
+    "sensor_id":404640,
+    "latitude":37.333614,
+    "longitude":-122.049627,
+    "lanes":4,
+    "name":"SB & NB 85",
+    "freeway":280,
+    "city_code":17610.0
+  },
+  {
+    "sensor_id":400673,
+    "latitude":37.329972,
+    "longitude":-122.013423,
+    "lanes":4,
+    "name":"Wolfe Rd rm-s-loop",
+    "freeway":280,
+    "city_code":17610.0
+  },
+  {
+    "sensor_id":400084,
+    "latitude":37.329258,
+    "longitude":-122.012053,
+    "lanes":4,
+    "name":"Wolfe Rd rm-s-loop",
+    "freeway":280,
+    "city_code":17610.0
+  },
+  {
+    "sensor_id":400429,
+    "latitude":37.319424,
+    "longitude":-121.993175,
+    "lanes":4,
+    "name":"LAWRENCE EXPWY",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400292,
+    "latitude":37.316378,
+    "longitude":-121.972052,
+    "lanes":4,
+    "name":"Saratoga ave  rm-s-diag",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401388,
+    "latitude":37.316628,
+    "longitude":-121.952438,
+    "lanes":4,
+    "name":"BASCOM & LELAND",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407711,
+    "latitude":37.317112,
+    "longitude":-121.941507,
+    "lanes":4,
+    "name":"17\/880 IC",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401163,
+    "latitude":37.316756,
+    "longitude":-121.923186,
+    "lanes":5,
+    "name":"LEIGH AVE OC",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":403419,
+    "latitude":37.316766,
+    "longitude":-121.921548,
+    "lanes":4,
+    "name":"Menker Ave rm-s-diag",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401327,
+    "latitude":37.315095,
+    "longitude":-121.914498,
+    "lanes":4,
+    "name":"400' S OF MERIDIAN AVE",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":403414,
+    "latitude":37.314844,
+    "longitude":-121.913648,
+    "lanes":4,
+    "name":"Southwest Expwy\/Meridian Ave",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402067,
+    "latitude":37.321367,
+    "longitude":-121.899571,
+    "lanes":4,
+    "name":"oppo Bird Ave off-n-diag",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401943,
+    "latitude":37.322361,
+    "longitude":-121.8978,
+    "lanes":4,
+    "name":"Bird Ave",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":403412,
+    "latitude":37.32243,
+    "longitude":-121.89764,
+    "lanes":4,
+    "name":"Bird Ave rm-s-diag",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":403409,
+    "latitude":37.324015,
+    "longitude":-121.890673,
+    "lanes":5,
+    "name":"NB 87\/SB 87 rm-s-",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401811,
+    "latitude":37.325651,
+    "longitude":-121.883953,
+    "lanes":5,
+    "name":"N OF 1ST STREET",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":403406,
+    "latitude":37.32592,
+    "longitude":-121.883314,
+    "lanes":5,
+    "name":"S 1st St rm-s-loop",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":403404,
+    "latitude":37.327807,
+    "longitude":-121.874899,
+    "lanes":4,
+    "name":"S 7th St rm-s-diag",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":403401,
+    "latitude":37.328484,
+    "longitude":-121.870843,
+    "lanes":4,
+    "name":"S 11th St rm-s-diag",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401809,
+    "latitude":37.334524,
+    "longitude":-121.860098,
+    "lanes":6,
+    "name":"N. of McLaughlin Ave.",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401391,
+    "latitude":37.337881,
+    "longitude":-121.85467,
+    "lanes":2,
+    "name":"US 101 IC (McLaughlin Ave)",
+    "freeway":280,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407184,
+    "latitude":37.427403,
+    "longitude":-121.884848,
+    "lanes":4,
+    "name":"S of Wrigley Way",
+    "freeway":680,
+    "city_code":47766.0
+  },
+  {
+    "sensor_id":407185,
+    "latitude":37.420881,
+    "longitude":-121.882423,
+    "lanes":4,
+    "name":"N of Landess Ave",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407190,
+    "latitude":37.412704,
+    "longitude":-121.880023,
+    "lanes":4,
+    "name":"Montague Expwy rm-s-diag",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407191,
+    "latitude":37.407919,
+    "longitude":-121.878542,
+    "lanes":4,
+    "name":"N of N Capitol Ave",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407200,
+    "latitude":37.398207,
+    "longitude":-121.875543,
+    "lanes":4,
+    "name":"N Capitol Ave rm-s-diag",
+    "freeway":680,
+    "city_code":null
+  },
+  {
+    "sensor_id":407186,
+    "latitude":37.391614,
+    "longitude":-121.870798,
+    "lanes":4,
+    "name":"Hotstteter Rd rn-s-loo\/diag",
+    "freeway":680,
+    "city_code":null
+  },
+  {
+    "sensor_id":407187,
+    "latitude":37.383139,
+    "longitude":-121.861675,
+    "lanes":4,
+    "name":"Berryessa Rd rm-s-diag",
+    "freeway":680,
+    "city_code":null
+  },
+  {
+    "sensor_id":407207,
+    "latitude":37.379794,
+    "longitude":-121.858188,
+    "lanes":4,
+    "name":"S of Berryessa Rd",
+    "freeway":680,
+    "city_code":null
+  },
+  {
+    "sensor_id":407206,
+    "latitude":37.372897,
+    "longitude":-121.851246,
+    "lanes":4,
+    "name":"N of McKee Rd",
+    "freeway":680,
+    "city_code":null
+  },
+  {
+    "sensor_id":407204,
+    "latitude":37.366097,
+    "longitude":-121.845103,
+    "lanes":4,
+    "name":"McKee Rd rm-s-diag",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407202,
+    "latitude":37.360613,
+    "longitude":-121.841794,
+    "lanes":4,
+    "name":"Alum Rock Rd rm-n-diag",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":407194,
+    "latitude":37.344191,
+    "longitude":-121.845564,
+    "lanes":6,
+    "name":"oppo S. King Rd off-s-diag",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400665,
+    "latitude":37.341439,
+    "longitude":-121.849299,
+    "lanes":4,
+    "name":"KING RD",
+    "freeway":680,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402119,
+    "latitude":37.421182,
+    "longitude":-121.915036,
+    "lanes":4,
+    "name":"Calaveras Blvd\/EB 237",
+    "freeway":880,
+    "city_code":47766.0
+  },
+  {
+    "sensor_id":402289,
+    "latitude":37.419106,
+    "longitude":-121.914308,
+    "lanes":4,
+    "name":"4A5324 loc 95",
+    "freeway":880,
+    "city_code":47766.0
+  },
+  {
+    "sensor_id":400238,
+    "latitude":37.413256,
+    "longitude":-121.912324,
+    "lanes":4,
+    "name":"Great Mall Pkwy",
+    "freeway":880,
+    "city_code":47766.0
+  },
+  {
+    "sensor_id":402287,
+    "latitude":37.405777,
+    "longitude":-121.910072,
+    "lanes":5,
+    "name":"4A5324 loc 94",
+    "freeway":880,
+    "city_code":47766.0
+  },
+  {
+    "sensor_id":402120,
+    "latitude":37.399227,
+    "longitude":-121.908515,
+    "lanes":4,
+    "name":"Montague Expressway",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402284,
+    "latitude":37.391557,
+    "longitude":-121.90671,
+    "lanes":4,
+    "name":"4A5324 loc 92",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402282,
+    "latitude":37.384485,
+    "longitude":-121.905044,
+    "lanes":4,
+    "name":"4A5324 loc 91",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":402121,
+    "latitude":37.380274,
+    "longitude":-121.904061,
+    "lanes":4,
+    "name":"Brokaw Rd rm-s-diag",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400971,
+    "latitude":37.368669,
+    "longitude":-121.901336,
+    "lanes":4,
+    "name":"Old Bayshore Hwy",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":404759,
+    "latitude":37.365167,
+    "longitude":-121.901551,
+    "lanes":4,
+    "name":"NB 101 rm-s-loop",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400479,
+    "latitude":37.362439,
+    "longitude":-121.903211,
+    "lanes":4,
+    "name":"SB 101 rm-s-diag",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400030,
+    "latitude":37.359087,
+    "longitude":-121.906538,
+    "lanes":3,
+    "name":"N FIRST ST",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":401440,
+    "latitude":37.356826,
+    "longitude":-121.908804,
+    "lanes":3,
+    "name":"First St rm-s-diag",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":403225,
+    "latitude":37.349517,
+    "longitude":-121.91728,
+    "lanes":3,
+    "name":"Airport Blvd rm-s-diag",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":403265,
+    "latitude":37.349229,
+    "longitude":-121.917686,
+    "lanes":3,
+    "name":"Coleman Ave rm-s-loop",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400508,
+    "latitude":37.34766,
+    "longitude":-121.919969,
+    "lanes":3,
+    "name":"Coleman Ave rm-s-diag",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400253,
+    "latitude":37.342957,
+    "longitude":-121.925721,
+    "lanes":3,
+    "name":"The Alameda rm-s-loop",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400709,
+    "latitude":37.341275,
+    "longitude":-121.927699,
+    "lanes":4,
+    "name":"The Alameda rm-s-diag",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400514,
+    "latitude":37.334602,
+    "longitude":-121.936288,
+    "lanes":3,
+    "name":"Bascom Ave rm-s-loop",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400723,
+    "latitude":37.334296,
+    "longitude":-121.936706,
+    "lanes":4,
+    "name":"Bascom Ave rm-s-diag",
+    "freeway":880,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":408911,
+    "latitude":37.325153,
+    "longitude":-121.940859,
+    "lanes":4,
+    "name":"Stevens Creek Blvd",
+    "freeway":880,
+    "city_code":null
+  },
+  {
+    "sensor_id":401611,
+    "latitude":37.318919,
+    "longitude":-121.940307,
+    "lanes":3,
+    "name":"Stevens Creek Blvd",
+    "freeway":880,
+    "city_code":null
+  },
+  {
+    "sensor_id":404585,
+    "latitude":37.406761,
+    "longitude":-122.009541,
+    "lanes":3,
+    "name":"Fair Oaks Ave. off ramp",
+    "freeway":237,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":400970,
+    "latitude":37.409755,
+    "longitude":-121.995933,
+    "lanes":3,
+    "name":"LAWRENCE EXPWY",
+    "freeway":237,
+    "city_code":77000.0
+  },
+  {
+    "sensor_id":400973,
+    "latitude":37.417801,
+    "longitude":-121.972288,
+    "lanes":3,
+    "name":"GREAT AMERICA PKWY",
+    "freeway":237,
+    "city_code":69084.0
+  },
+  {
+    "sensor_id":400567,
+    "latitude":37.418931,
+    "longitude":-121.962821,
+    "lanes":4,
+    "name":"N First St",
+    "freeway":237,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400104,
+    "latitude":37.419313,
+    "longitude":-121.95548,
+    "lanes":3,
+    "name":"NORTH FIRST STREET",
+    "freeway":237,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400296,
+    "latitude":37.420359,
+    "longitude":-121.93915,
+    "lanes":3,
+    "name":"oppo Zanker Rd  rm-w-loop",
+    "freeway":237,
+    "city_code":68000.0
+  },
+  {
+    "sensor_id":400873,
+    "latitude":37.420927,
+    "longitude":-121.93674,
+    "lanes":3,
+    "name":"ZANKER RD",
+    "freeway":237,
+    "city_code":68000.0
+  }
+]

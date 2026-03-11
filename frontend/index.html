@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Traffic Sensors Dashboard</title>
+
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Traffic Sensors Dashboard</h1>
+    <p>MongoDB + Node.js + Leaflet visualization of PeMS-Bay sensor locations</p>
+  </header>
+
+  <div class="dashboard">
+    <aside class="sidebar">
+      <div class="card">
+        <h3>Total Sensors</h3>
+        <div class="stat" id="totalSensors">0</div>
+        <div class="label">Number of sensors loaded from MongoDB</div>
+      </div>
+
+      <div class="card">
+        <h3>Search by Sensor ID</h3>
+        <input type="number" id="sensorSearch" placeholder="Enter sensor ID" />
+        <button id="searchBtn">Search Sensor</button>
+        <div id="resultBox">No sensor selected.</div>
+      </div>
+
+      <div class="card">
+        <h3>About this dashboard</h3>
+        <div class="legend">
+          - Each blue circle represents a traffic sensor.<br>
+          - Click a sensor on the map to display its details.<br>
+          - Data comes from MongoDB through a Node.js API.<br>
+          - The map is rendered with Leaflet.
+        </div>
+      </div>
+    </aside>
+
+    <main id="map"></main>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
