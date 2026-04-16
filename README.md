@@ -4,13 +4,13 @@ Interactive dashboard for visualizing traffic sensors from the PeMS-Bay dataset 
 
 ## 📌 Overview
 
-This project is part of a complementary TP focused on:
+This project is part of a **travail complémentaire** focused on:
 
-- Storing sensor metadata in MongoDB
-- Exposing data via a Node.js / Express API
-- Visualizing sensors on an interactive map using Leaflet
-- Searching sensors by Sensor ID
-- Deploying the system using Docker and Docker Compose
+- Storing sensor metadata in MongoDB  
+- Exposing data via a Node.js / Express API  
+- Visualizing sensors on an interactive map using Leaflet  
+- Searching sensors by Sensor ID  
+- Deploying the system using Docker and Docker Compose  
 
 The dataset contains **325 traffic sensors** with geographic coordinates and metadata.
 
